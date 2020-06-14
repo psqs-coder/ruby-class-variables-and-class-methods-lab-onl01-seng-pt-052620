@@ -8,5 +8,7 @@ class Song
   
   @@genre = []
   
-  
+  def self.genres
+    @@genres.uniq
+  end
 
