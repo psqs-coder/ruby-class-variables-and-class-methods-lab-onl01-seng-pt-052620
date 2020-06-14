@@ -6,5 +6,5 @@ class Song
   end 
   
   
-  @@genre
+  @@genre = []
 
