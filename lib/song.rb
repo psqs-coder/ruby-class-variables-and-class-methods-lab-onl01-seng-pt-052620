@@ -1,4 +1,4 @@
 class Song 
-  def Song.count
-end
+ 
+  def Song.count=song.count
 
